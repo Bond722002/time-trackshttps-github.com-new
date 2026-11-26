@@ -1,0 +1,2 @@
+# No advertising or ad network is configured for this site.
+# If you later monetize with an ad platform, replace this comment with the exact publisher declaration supplied by that platform.

@@ -1,0 +1,17 @@
+{
+  "name": "the-moving-camera-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website and one-time Stripe Checkout for The Moving Camera Sdn Bhd",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "stripe": "^17.7.0"
+  }
+}

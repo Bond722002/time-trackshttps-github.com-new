@@ -1,0 +1,11 @@
+{
+  "name": "The Moving Camera Sdn Bhd",
+  "short_name": "Moving Camera",
+  "description": "The Moving Camera Sdn Bhd",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#101114",
+  "theme_color": "#101114",
+  "icons": []
+}
